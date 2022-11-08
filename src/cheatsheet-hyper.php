@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/dist/css/dashly.css">
+    <link rel="stylesheet" href="/dist/css/hyper-dark.css">
     <link rel="stylesheet" href="/vendor/twbs/bootstrap-icons/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://getbootstrap.com/docs/5.0/examples/cheatsheet/cheatsheet.css">
-    <title>Cheatsheet - Dashly</title>
+    <title>Cheatsheet - hyper</title>
   </head>
   <body class="bg-light">
 

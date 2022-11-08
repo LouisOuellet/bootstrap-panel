@@ -1,0 +1,23 @@
+{
+    "name": "laswitchtech/bootstrap-panel",
+    "description": "Web GUI based on Bootstrap 5",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Louis Ouellet",
+            "email": "louis_ouellet@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twbs/bootstrap": "5.2.2",
+        "components/jquery": "^3.6",
+        "twbs/bootstrap-icons": "^1.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaswitchTech\\BSPanel\\": "src/"
+        }
+    }
+}

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/dist/css/default.css">
+    <link rel="stylesheet" href="/dist/css/BSPanel.css">
     <link rel="stylesheet" href="/vendor/twbs/bootstrap-icons/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://getbootstrap.com/docs/5.0/examples/carousel/carousel.css">
     <title>Carousel</title>

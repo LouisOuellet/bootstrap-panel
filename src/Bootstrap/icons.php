@@ -1,8 +1,8 @@
 <?php
-$files = scandir(dirname(__FILE__,2) . "/src");
-$pages = [];
+$files = scandir(dirname(__FILE__,2) . "/vendor/twbs/bootstrap-icons/icons");
+$icons = [];
 foreach($files as $key => $name){
-  if(!in_array($name,['.','..','BSPanel.php','examples.php','example.php'])){ $pages[] = $name; }
+  if(!in_array($name,['.','..'])){ $icons[] = str_replace('.svg','',$name); }
 }
 ?>
 <!doctype html>
@@ -10,15 +10,16 @@ foreach($files as $key => $name){
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/dist/css/default.css">
+    <link rel="stylesheet" href="/dist/css/BSPanel.css">
     <link rel="stylesheet" href="/vendor/twbs/bootstrap-icons/font/bootstrap-icons.css">
-    <title>Examples</title>
+    <title>Icons</title>
   </head>
   <body>
-    <div class="row g-2 row-cols-4">
-      <?php foreach($pages as $page){ ?>
-        <div class="col py-2">
-          <a href="<?= $page ?>" class="w-100 btn btn-primary"><?= $page ?></a>
+    <div class="row g-0 row-cols-6">
+      <?php foreach($icons as $icon){ ?>
+        <div class="col">
+          <div class="text-center"><i class="bi-<?= $icon ?> fs-1"></i></div>
+          <div class="text-center"><?= $icon ?></div>
         </div>
       <?php } ?>
     </div>

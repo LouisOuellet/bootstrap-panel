@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://getbootstrap.com/docs/5.0/examples/cheatsheet/cheatsheet.css">
     <title>Cheatsheet</title>
   </head>
-  <body class="bg-light">
+  <body class="bg-light" data-theme="dashly">
 
 <header class="bd-header bg-dark py-3 d-flex align-items-stretch border-bottom border-dark">
   <div class="container-fluid d-flex align-items-center">
@@ -16,7 +16,7 @@
       <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-white.svg" width="38" height="30" class="me-3" alt="Bootstrap">
       Cheatsheet
     </h1>
-    <a href="/docs/5.0/examples/cheatsheet-rtl/" class="ms-auto link-light" hreflang="ar">RTL cheatsheet</a>
+    <a href="https://getbootstrap.com/docs/5.2/examples/cheatsheet-rtl/" class="ms-auto link-light" hreflang="ar">RTL cheatsheet</a>
   </div>
 </header>
 <aside class="bd-aside sticky-xl-top text-muted align-self-start mb-3 mb-xl-5 px-2">
@@ -78,7 +78,7 @@
     <article class="my-3" id="typography">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Typography</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/content/typography/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/content/typography/">Documentation</a>
       </div>
 
       <div>
@@ -153,7 +153,7 @@
     <article class="my-3" id="images">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Images</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/content/images/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/content/images/">Documentation</a>
       </div>
 
       <div>
@@ -171,7 +171,7 @@
     <article class="my-3" id="tables">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Tables</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/content/tables/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/content/tables/">Documentation</a>
       </div>
 
       <div>
@@ -335,7 +335,7 @@
     <article class="my-3" id="figures">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Figures</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/content/figures/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/content/figures/">Documentation</a>
       </div>
 
       <div>
@@ -356,7 +356,7 @@
     <article class="my-3" id="overview">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Overview</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/forms/overview/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/forms/overview/">Documentation</a>
       </div>
 
       <div>
@@ -406,7 +406,7 @@
     <article class="my-3" id="disabled-forms">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Disabled forms</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/forms/overview/#disabled-forms">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/forms/overview/#disabled-forms">Documentation</a>
       </div>
 
       <div>
@@ -463,7 +463,7 @@
     <article class="my-3" id="sizing">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Sizing</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/forms/form-control/#sizing">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/forms/form-control/#sizing">Documentation</a>
       </div>
 
       <div>
@@ -505,7 +505,7 @@
     <article class="my-3" id="input-group">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Input group</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/forms/input-group/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/forms/input-group/">Documentation</a>
       </div>
 
       <div>
@@ -538,7 +538,7 @@
     <article class="my-3" id="floating-labels">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Floating labels</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/forms/floating-labels/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/forms/floating-labels/">Documentation</a>
       </div>
 
       <div>
@@ -559,7 +559,7 @@
     <article class="my-3" id="validation">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Validation</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/forms/validation/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/forms/validation/">Documentation</a>
       </div>
 
       <div>
@@ -639,7 +639,7 @@
     <article class="my-3" id="accordion">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Accordion</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/accordion/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/accordion/">Documentation</a>
       </div>
 
       <div>
@@ -688,7 +688,7 @@
     <article class="my-3" id="alerts">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Alerts</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/alerts/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/alerts/">Documentation</a>
       </div>
 
       <div>
@@ -741,7 +741,7 @@
     <article class="my-3" id="badge">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Badge</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/badge/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/badge/">Documentation</a>
       </div>
 
       <div>
@@ -772,7 +772,7 @@
     <article class="my-3" id="breadcrumb">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Breadcrumb</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/breadcrumb/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/breadcrumb/">Documentation</a>
       </div>
 
       <div>
@@ -790,7 +790,7 @@
     <article class="my-3" id="buttons">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Buttons</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/buttons/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/buttons/">Documentation</a>
       </div>
 
       <div>
@@ -830,7 +830,7 @@
     <article class="my-3" id="button-group">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Button group</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/button-group/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/button-group/">Documentation</a>
       </div>
 
       <div>
@@ -857,7 +857,7 @@
     <article class="my-3" id="card">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Card</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/card/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/card/">Documentation</a>
       </div>
 
       <div>
@@ -930,7 +930,7 @@
     <article class="my-3" id="carousel">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Carousel</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/carousel/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/carousel/">Documentation</a>
       </div>
 
       <div>
@@ -982,7 +982,7 @@
     <article class="my-3" id="dropdowns">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Dropdowns</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/dropdowns/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/dropdowns/">Documentation</a>
       </div>
 
       <div>
@@ -1164,7 +1164,7 @@
     <article class="my-3" id="list-group">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>List group</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/list-group/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/list-group/">Documentation</a>
       </div>
 
       <div>
@@ -1207,7 +1207,7 @@
     <article class="my-3" id="modal">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Modal</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/modal/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/modal/">Documentation</a>
       </div>
 
       <div>
@@ -1232,7 +1232,7 @@
     <article class="my-3" id="navs">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Navs</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/navs-tabs/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/navs-tabs/">Documentation</a>
       </div>
 
       <div>
@@ -1287,7 +1287,7 @@
     <article class="my-3" id="navbar">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Navbar</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/navbar/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/navbar/">Documentation</a>
       </div>
 
       <div>
@@ -1376,7 +1376,7 @@
     <article class="my-3" id="pagination">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Pagination</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/pagination/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/pagination/">Documentation</a>
       </div>
 
       <div>
@@ -1434,7 +1434,7 @@
     <article class="my-3" id="popovers">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Popovers</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/popovers/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/popovers/">Documentation</a>
       </div>
 
       <div>
@@ -1461,7 +1461,7 @@
     <article class="my-3" id="progress">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Progress</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/progress/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/progress/">Documentation</a>
       </div>
 
       <div>
@@ -1494,7 +1494,7 @@
     <article class="my-3" id="scrollspy">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Scrollspy</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/scrollspy/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/scrollspy/">Documentation</a>
       </div>
 
       <div>
@@ -1537,7 +1537,7 @@
     <article class="my-3" id="spinners">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Spinners</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/spinners/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/spinners/">Documentation</a>
       </div>
 
       <div>
@@ -1601,7 +1601,7 @@
     <article class="my-3" id="toasts">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Toasts</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/toasts/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/toasts/">Documentation</a>
       </div>
 
       <div>
@@ -1624,7 +1624,7 @@
     <article class="mt-3 mb-5 pb-5" id="tooltips">
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
         <h3>Tooltips</h3>
-        <a class="d-flex align-items-center" href="/docs/5.0/components/tooltips/">Documentation</a>
+        <a class="d-flex align-items-center" href="https://getbootstrap.com/docs/5.2/components/tooltips/">Documentation</a>
       </div>
 
       <div>

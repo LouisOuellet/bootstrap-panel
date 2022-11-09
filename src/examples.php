@@ -10,7 +10,7 @@ foreach($files as $key => $name){
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/dist/css/hyper-dark.css">
+    <link rel="stylesheet" href="/dist/css/default.css">
     <link rel="stylesheet" href="/vendor/twbs/bootstrap-icons/font/bootstrap-icons.css">
     <title>Examples</title>
   </head>

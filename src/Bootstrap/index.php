@@ -1,8 +1,8 @@
 <?php
-$files = scandir(dirname(__FILE__,2) . "/src");
+$files = scandir(dirname(__FILE__,3) . "/src/Bootstrap");
 $pages = [];
 foreach($files as $key => $name){
-  if(!in_array($name,['.','..','BSPanel.php','examples.php','example.php'])){ $pages[] = $name; }
+  if(!in_array($name,['.','..','BSPanel.php','index.php','example.php'])){ $pages[] = $name; }
 }
 ?>
 <!doctype html>
@@ -12,7 +12,7 @@ foreach($files as $key => $name){
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/dist/css/BSPanel.css">
     <link rel="stylesheet" href="/vendor/twbs/bootstrap-icons/font/bootstrap-icons.css">
-    <title>Examples</title>
+    <title>Bootstrap</title>
   </head>
   <body>
     <div class="row g-2 row-cols-4">

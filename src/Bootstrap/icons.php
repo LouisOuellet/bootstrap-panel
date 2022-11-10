@@ -1,5 +1,5 @@
 <?php
-$files = scandir(dirname(__FILE__,2) . "/vendor/twbs/bootstrap-icons/icons");
+$files = scandir(dirname(__FILE__,3) . "/vendor/twbs/bootstrap-icons/icons");
 $icons = [];
 foreach($files as $key => $name){
   if(!in_array($name,['.','..'])){ $icons[] = str_replace('.svg','',$name); }
